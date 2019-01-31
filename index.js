@@ -26,7 +26,7 @@ const ES256 = -7
  *    BITSTRING <raw public key>
  * }
  *
- * Lucrily, to do that, we just need to prefix it with constant
+ * Luckily, to do that, we just need to prefix it with constant
  * 26 bytes (metadata is constant).
  * borrowed from: https://github.com/fido-alliance/webauthn-demo/blob/completed-demo/utils.js#L139
  */
