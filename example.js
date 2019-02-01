@@ -5,6 +5,7 @@ const aid = require('ara-identity')
 
 const domain = window.location.hostname
 const servers = [
+  'http://resolver.ara.local',
   'http://resolver.ara.one',
   'http://identity1.cafe.network',
 ]
