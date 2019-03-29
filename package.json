@@ -20,12 +20,14 @@
     "brfs": "^2.0.1",
     "budo": "^11.5.0"
   },
+  "peerDependencies": {
+    "ara-identity": "^0.58.0"
+  },
   "dependencies": {
-    "ara-crypto": "github:arablocks/ara-crypto",
-    "ara-identity": "github:arablocks/ara-identity",
+    "ara-crypto": "^0.8.4",
     "cbor": "^4.1.3",
-    "did-document-public-key": "^0.3.0",
-    "did-uri": "^0.2.8",
+    "did-document-public-key": "^0.5.1",
+    "did-uri": "^0.3.0",
     "elliptic": "^6.4.1",
     "is-buffer": "^2.0.3",
     "jwa": "^1.1.6",
