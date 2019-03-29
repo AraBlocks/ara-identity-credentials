@@ -1,6 +1,6 @@
 {
   "name": "ara-identity-credentials",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Create, store, and get an ara identity for the CredentialsContainer API",
   "main": "index.js",
   "scripts": {
